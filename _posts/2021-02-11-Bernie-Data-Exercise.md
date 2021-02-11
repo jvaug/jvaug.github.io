@@ -25,6 +25,7 @@ date: 2021-02-11
   </object>
 </div>
 
+[Link to Tableau Dashboard](https://public.tableau.com/profile/jerry.vaughan#!/vizhome/Bernie-March2020/Dashboard1)
 # Bernie - March 2020
 
 This was a quick data exploration challenge looking at the March 2020 individual contributor data from the FEC for Bernie Sanders' 2020 Presidential Campaign [[data here]](https://www.fec.gov/data/receipts/individual-contributions/?committee_id=C00696948&two_year_transaction_period=2020&min_date=03%2F01%2F2020&max_date=03%2F31%2F2020).  The intended time limit for this analysis was 20-25 minutes so my visualizations are basic/unoptimized and the insights below are just what I could glean quickly.
