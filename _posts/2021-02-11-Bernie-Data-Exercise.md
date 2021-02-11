@@ -36,7 +36,7 @@ This was a quick data exploration challenge looking at the March 2020 individual
 
 **Occupation**
 
-The high cardinality of this data made it hard to work with; often the case with user input fields.  With more time, I'd try to build subcategories by industry.  The most readily apparent takeaway here is ~20% of Bernie's donations during this period came from those who identified themselves as 'Not Employed'.  You could interpret this as Bernie's message and platform appealing more to those not currently working but 'Not Employed' is likely just the largest category of people above the voting age.  My assumption is that while those Unemployed not by their own choice are counted here, Retirees are also likely to fall into this category.
+The high cardinality of this data made it hard to work with; often the case with user input fields.  With more time, I'd try to build subcategories by industry.  The most readily apparent takeaway here is ~20% of Bernie's donations during this period came from those who identified themselves as 'Not Employed'.  You could interpret this as Bernie's message and platform appealing more to those not currently working but 'Not Employed' is likely just the largest category of people above the voting age.  My assumption is that while those Unemployed not by their own choice are counted here, retirees are also likely to fall into this category.
 
 **Employer**
 
@@ -48,5 +48,5 @@ My initial expectation with the state level data was that it would track quite c
 
 **Rate Over Time**
 
-I started with a quick visualization with just contributions over time and was able to detect major political milestones (Super Tuesday, the March 15th debate) just based on the changes in donation volume.  I built this second graph in hopes that I'd maybe be able to see those events on a state by state level (primaries/campaign stops).  Definitely some work to be done here to make that hope viable.
+I started with a quick visualization with just contributions over time and was able to detect major political milestones (Super Tuesday, the March 15th debate) just based on the changes in donation volume.  I built this second graph in hopes that I'd be able to see those events on a state by state level (primaries/campaign stops).  Definitely some work to be done here to make that hope viable.
 
