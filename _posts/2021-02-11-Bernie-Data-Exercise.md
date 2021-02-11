@@ -27,6 +27,7 @@ date: 2021-02-11
 
 <iframe src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Be&#47;Bernie-March2020&#47;Dashboard1&#47;1.png"></iframe>
 
+<iframe seamless frameborder="0" src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Be&#47;Bernie-March2020&#47;Dashboard1&#47;1.png" width = '650' height = '450' scrolling='yes' ></iframe>    
 
 
 [Link to Tableau Dashboard](https://public.tableau.com/profile/jerry.vaughan#!/vizhome/Bernie-March2020/Dashboard1)
